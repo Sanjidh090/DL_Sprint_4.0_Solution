@@ -1,1 +1,1 @@
-All the training scripts are here.
+All the inferencing scripts are here.
